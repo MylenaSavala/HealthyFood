@@ -3,7 +3,7 @@ Para este projeto em React foram utilizados: HTML, CSS, Javascript, Styled-compo
 
 O que funciona?
 
-O botão register, e a tela de cadastro.
+Página inicial e a tela de cadastro.
 
 Link do surge: https://plain-wood.surge.sh/
 
@@ -15,3 +15,5 @@ Fotos do projeto
 ![image](https://user-images.githubusercontent.com/79485071/158077616-e97e6744-0d9e-4c0d-935d-816e9783ee8f.png)
 ![image](https://user-images.githubusercontent.com/79485071/158077623-f943a7b9-4ed3-4138-8a4f-d10cea1a9fd6.png)
 ![image](https://user-images.githubusercontent.com/79485071/158077630-7e8c2b4a-62e5-4511-aa76-5b4dff601f19.png)
+![image](https://user-images.githubusercontent.com/79485071/169934883-d079d5e7-af29-43d8-8096-776e08cf8181.png)
+
