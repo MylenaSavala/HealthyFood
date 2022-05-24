@@ -5,7 +5,7 @@ O que funciona?
 
 O botão register, e a tela de cadastro.
 
-Link do surge: sparkling-table.surge.sh
+Link do surge: https://plain-wood.surge.sh/
 
 Fotos do projeto
 
